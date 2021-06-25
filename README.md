@@ -31,3 +31,11 @@ Fansite CMS powered by Habbink. Developer by Hugoyin.
 		"twitter" => "Your Twitter Name",
 		"version" => "1.0.0",
 		"mail" => "Your fansite email address",
+
+5. Admin panel don't working? `Panel > Template > Header` open file.
+
+    • http://localhost change to your website url
+    
+5. Upload page don't working? `Upload > Config` open file.
+
+		$site_url = "Your website url";
